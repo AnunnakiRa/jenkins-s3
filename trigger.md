@@ -35,8 +35,6 @@ In job configuration:
   Jenkinsfile
 
 
-
-
 Save pipeline
 
 ---
