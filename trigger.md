@@ -1,6 +1,7 @@
 # Add GitHub Webhook Trigger to Jenkins
 
 ## Prerequisites
+
 - Jenkins running on EC2
 - Jenkins reachable from the internet (e.g. `http://<EC2-PUBLIC-IP>:8080`)
 - Repo with Jenkinsfile and terraform script 
