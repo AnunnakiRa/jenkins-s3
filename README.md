@@ -80,7 +80,6 @@ An interactive input step that pauses the pipeline and asks the user whether to 
 
 ---
 
-
 ## Pipeline Screenshots
 
 > Add your deliverable screenshots below.
