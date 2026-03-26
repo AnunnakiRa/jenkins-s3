@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # jenkins-s3
 Jenkins CI CD project Create an S3 bucket
 =======
@@ -118,4 +117,3 @@ An interactive input step that pauses the pipeline and asks the user whether to 
 - The S3 backend must exist before running the pipeline for the first time.
 - `force_destroy = true` on the bucket allows Terraform to delete non-empty buckets during destroy.
 - The `bucket_prefix` attribute lets AWS generate a unique bucket name with the given prefix, avoiding naming conflicts.
->>>>>>> fff7006 (first commit)
