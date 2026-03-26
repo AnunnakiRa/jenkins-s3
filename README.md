@@ -1,5 +1,5 @@
 # jenkins-s3
-Jenkins CI CD project Create an S3 bucket
+
 =======
 # Jenkins CI/CD Pipeline with Terraform & AWS S3
 
