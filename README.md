@@ -90,9 +90,10 @@ An interactive input step that pauses the pipeline and asks the user whether to 
 ### Terraform Apply – Resource Creation
 ![Terraform Apply](images/image-4.png)
 
-### Optional Destroy – Resource Teardown & Pipeline Success
+### Optional Destroy – Resource Teardown
 ![Terraform Destroy](images/image-5.png)
 
+### Options Destroy - Pipeline Success
 ![Terraform Destroy](images/imag-6.png)
 
 
