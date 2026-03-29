@@ -93,6 +93,9 @@ An interactive input step that pauses the pipeline and asks the user whether to 
 ### Optional Destroy – Resource Teardown & Pipeline Success
 ![Terraform Destroy](images/image-5.png)
 
+![Terraform Destroy](images/imag-6.png)
+
+
 ---
 
 ## Environment Variables
