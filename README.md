@@ -55,12 +55,6 @@ Checks out the source code from the configured SCM (GitHub).
 ### 2. Terraform Init
 Initializes Terraform using AWS credentials injected via Jenkins' `withCredentials` binding. Configures the S3 remote backend to store the `.tfstate` file.
 
-```
-Backend: S3
-Bucket:  getouttamy-bucket
-Key:     jenkins-test-032226.tfstate
-Region:  us-east-1
-```
 
 ### 3. Terraform Apply
 Generates an execution plan (`tfplan`) and applies it automatically, creating the S3 bucket defined in `test-bucket.tf`.
